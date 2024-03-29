@@ -1,2 +1,2 @@
 # TeamGN
-korea robot aircraft competition project
+한국 로봇항공기 경연대회 프로젝트
